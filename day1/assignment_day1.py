@@ -12,5 +12,5 @@ print("your favourite subject is", subject + " . ")
 
 name = input("enter your name? ")
 favourite_hubby = input("enter favourite_hubby? ")
-years = input("how many years have you done it? ")
+years = input("years of experience? ")
 print("my name is", name, "i love", favourite_hubby, "and i have been into it for", years, "and i love what i do.")
